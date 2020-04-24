@@ -81,7 +81,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>org.example.HelloKt</mainClass>
+                                    <mainClass>dev.karvetskiy.RequestsKt</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
